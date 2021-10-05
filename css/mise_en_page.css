@@ -1,0 +1,8 @@
+.titredelapage{
+    background-color: blueviolet;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+}
